@@ -1,21 +1,28 @@
-### Hi there 👋 i'm @fless-lab
+### Hi there <a href="https://www.linkedin.com/in/abdou-raouf-atarmla/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+Come and take a look at what i do on my open hours :blush:
 
+- 🔭 I’m currently working on something cool 😉
 - 👀 I’m interested in Artificial Intelligence and Physics
-- 👯 I’m looking to collaborate on Javascript, PHP and Python project
+- 👯 I’m looking to collaborate on exciting projects 😶‍🌫️
 - 📫 How to reach me achilleatarmla@gmail.com
-- ⚡ Information security is my hobby
+- ⚡  Fun fact: I ❤️ Gaming 
 
-<!--
-**fless-lab/fless-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://wa.me/22896858733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="gautamkrishnar" height="30" width="40"/></a>
+<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdou-raouf-atarmla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@raoufcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="4214976" height="30" width="40" /></a>
 
-Here are some ideas to get you started:
+---
+<div style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fless-lab&show_icons=true&theme=transparent&layout=compact)](https://github.com/fless-lab/github-readme-stats)
+</p>
+<p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fless-lab&show_icons=true&theme=transparent)](https://github.com/fless-lab/github-readme-stats)
+</p>
+
+</div>
